@@ -1,2 +1,2 @@
 data
-Testing merge confi
+Adding line 2 to see merge error
