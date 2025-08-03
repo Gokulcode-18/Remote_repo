@@ -8,3 +8,4 @@ top
 uptime
 ps -ef
 who
+echo "Checking the status"
