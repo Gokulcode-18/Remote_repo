@@ -8,4 +8,4 @@ top
 uptime
 ps -ef
 who
-echo "Checking the status without edting the webhook"
+echo "Checking the status after editing the webhook"
